@@ -8,7 +8,6 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import Demo_1.Demo_1;
 
 public class ChanLeTest2 {
 

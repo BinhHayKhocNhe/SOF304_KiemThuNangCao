@@ -33,10 +33,10 @@ public class MathFuncTest {
 	@Test
 	public void testGetCalls() {
 		assertEquals(0, math.getCalls());
-		
+
 		math.giaiThua(1);
 		assertEquals(1, math.getCalls());
-		
+
 		math.giaiThua(1);
 		assertEquals(2, math.getCalls());
 	}

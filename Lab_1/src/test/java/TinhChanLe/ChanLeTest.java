@@ -4,13 +4,18 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import Demo_1.Demo_1;
-
 public class ChanLeTest {
 
 	@Test
 	public void testIsEventNumber() {
-		int a = 0;
+		int a = 2;
+		boolean acture = ChanLe.isEventNumber(a);
+		boolean expection = true;
+		assertEquals(expection, acture);
+	}
+	@Test
+	public void testIsEventNumber1() {
+		int a = 3;
 		boolean acture = ChanLe.isEventNumber(a);
 		boolean expection = true;
 		assertEquals(expection, acture);
