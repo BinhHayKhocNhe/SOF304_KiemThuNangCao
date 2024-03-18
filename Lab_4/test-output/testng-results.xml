@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-18T16:39:01 ICT" name="Default suite" finished-at="2024-03-18T16:39:01 ICT" duration-ms="37">
+    <groups>
+    </groups>
+    <test started-at="2024-03-18T16:39:01 ICT" name="Default test" finished-at="2024-03-18T16:39:01 ICT" duration-ms="37">
+      <class name="Bai_3.VatCalculatorTest">
+        <test-method signature="getVatOnAmountTest()[pri:0, instance:Bai_3.VatCalculatorTest@5f058f00]" started-at="2024-03-18T16:39:01 ICT" name="getVatOnAmountTest" finished-at="2024-03-18T16:39:01 ICT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getVatOnAmountTest -->
+      </class> <!-- Bai_3.VatCalculatorTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
